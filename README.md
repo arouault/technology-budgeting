@@ -11,12 +11,10 @@ We will better discover partner dynamics and motivation in our work. It appears 
 - June 2018: Phase One Investigation report-out
 - August 2018: Phase Two MOU signed
 - August 2019: “[De-risking custom technology projects](https://github.com/18F/technology-budgeting/blob/master/handbook.md)” published
+— April 2020: Workshop series with 3 state governments & adaptation of handbook for federal audiences 
 
-## Recommendations
-We recommend proceeding to a phase 3.
-
-## Next Steps
-Phase 3 pitch.
+## Latest Recommendations
+Coming soon...
 
 ## License
 
